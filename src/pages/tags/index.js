@@ -12,9 +12,16 @@ const TagsPage = ({
     },
   },
 }) => (
-  <Layout>
+  <Layout pg="blog">
     <section className="section">
       <Helmet title={`Tags | ${title}`} />
+      <style
+            dangerouslySetInnerHTML={{
+              __html: `
+              body { background-color: white; border-top: 6px solid #381696 }
+            `,
+            }}
+          />
       <div className="container content">
         <div className="columns">
           <div

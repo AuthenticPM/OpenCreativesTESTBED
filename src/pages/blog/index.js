@@ -19,13 +19,9 @@ const BlogIndexPage = ({ data }) => {
             paddingLeft:'12px'
           }}
         >
-          <h1 className="has-text-weight-bold b-h1" >
-            {frontmatter.blog.title}
-          </h1>
+          <h1 className="has-text-weight-bold b-h1" >{frontmatter.blog.title}</h1>
           <br/>
-          <p className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen b-p" >
-            {frontmatter.blog.description}
-          </p>
+          <p className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen b-p" >{frontmatter.blog.description}</p>
         </div>
 
         <section className="section" style={{ paddingTop : '10px'}}>

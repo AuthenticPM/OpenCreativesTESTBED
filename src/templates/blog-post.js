@@ -27,15 +27,6 @@ export const BlogPostTemplate = ({
         `,
         }}
       />
-      {/* <div
-        className="full-width-image-container b-fwi margin-top-0"
-        style={{
-          paddingTop: "0",
-          flexDirection: "column",
-          paddingRight: "12px",
-          paddingLeft: "12px",
-        }}
-      ></div> */}
 
       <div className="container">
         {featuredimage ? (
@@ -74,7 +65,6 @@ export const BlogPostTemplate = ({
         >
           <div className="columns">
             <div className="column is-10 is-offset-1 bpTitle">
-            
                   <h1
                     className="title is-size-2 has-text-weight-bold is-bold-light"
                     style={{ marginBottom: "0rem", color:'#000' }}
@@ -82,7 +72,6 @@ export const BlogPostTemplate = ({
                     {title}
                   </h1>
                   <p style={{ color:'#000' }}>{date}</p>
-                
               <p>{description}</p>
               <PostContent content={content} />
               {tags && tags.length ? (
