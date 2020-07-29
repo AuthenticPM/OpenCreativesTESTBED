@@ -9,11 +9,13 @@ mainpitch1:
     Providing short and impactful interviews with those who take the plunge and
     chase their dreams
   title: What are we about?
+  link: 'https://www.microsoft.com/en-au/windows'
 mainpitch2:
   description: >-
     Because we can learn a lot by looking at the path others have carved out
     from their own journey of life
   title: And why does that matter?
+  link: 'https://www.microsoft.com/en-au/windows'
 intro:
   blurbs:
     - image: /img/temp blog.png

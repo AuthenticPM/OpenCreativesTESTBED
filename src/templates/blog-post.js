@@ -59,15 +59,7 @@ export const BlogPostTemplate = ({
                   height:'35vh'
                 }}
               >
-                <div>
-                  <h1
-                    className="title is-size-2 has-text-weight-bold is-bold-light"
-                    style={{ marginBottom: "0rem", color:'#fff' }}
-                  >
-                    {title}
-                  </h1>
-                  <p style={{ color:'#fff' }}>{date}</p>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -81,7 +73,16 @@ export const BlogPostTemplate = ({
           style={{ padding: "1rem 0", textAlign: "left" }}
         >
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-10 is-offset-1 bpTitle">
+            
+                  <h1
+                    className="title is-size-2 has-text-weight-bold is-bold-light"
+                    style={{ marginBottom: "0rem", color:'#000' }}
+                  >
+                    {title}
+                  </h1>
+                  <p style={{ color:'#000' }}>{date}</p>
+                
               <p>{description}</p>
               <PostContent content={content} />
               {tags && tags.length ? (

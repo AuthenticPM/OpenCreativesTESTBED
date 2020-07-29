@@ -10,7 +10,7 @@ const BlogIndexPage = ({ data }) => {
         <style dangerouslySetInnerHTML={{__html: `
           body { background-color: white; border-top: 6px solid #381696 }
         `}} />
-        <div className="full-width-image-container margin-top-0"
+        <div className="full-width-image-container blog-fwic margin-top-0"
           style={{
             paddingTop:'0',
             flexDirection: 'column',

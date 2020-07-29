@@ -100,6 +100,7 @@ export const IndexPageTemplate = ({
                            style={{ display: "flex" }}
                          >
                            <section className="tile">
+                            <a href={mainpitch1.link} target="_blank" rel="noopener noreferrer" style={{color:'#333'}}>
                              <div className="has-text-centered top-box">
                                <div className="f-icon icon-faAward">
                                  <FontAwesomeIcon icon={faAward} size="lg" />
@@ -107,6 +108,7 @@ export const IndexPageTemplate = ({
                                <h4 className="title">{mainpitch1.title}</h4>
                                <p>{mainpitch1.description}</p>
                              </div>
+                             </a>
                            </section>
                          </div>
                          <div
@@ -114,6 +116,7 @@ export const IndexPageTemplate = ({
                            style={{ display: "flex" }}
                          >
                            <section className="tile">
+                           <a href={mainpitch2.link} target="_blank" rel="noopener noreferrer" style={{color:'#333'}}>
                              <div className="has-text-centered top-box">
                                <div className="f-icon icon-faMedal">
                                  <FontAwesomeIcon icon={faMedal} size="lg" />
@@ -121,6 +124,7 @@ export const IndexPageTemplate = ({
                                <h4 className="title">{mainpitch2.title}</h4>
                                <p>{mainpitch2.description}</p>
                              </div>
+                             </a>
                            </section>
                          </div>
                        </div>
@@ -289,10 +293,12 @@ export const pageQuery = graphql`
         mainpitch1 {
           title
           description
+          link
         }
         mainpitch2 {
           title
           description
+          link
         }
         intro {
           blurbs {
