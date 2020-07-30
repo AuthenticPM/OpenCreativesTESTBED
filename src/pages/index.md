@@ -16,23 +16,19 @@ mainpitch2:
   link: https://www.microsoft.com/en-au/windows
 intro:
   blurbs:
-    - image: /img/temp blog.png
-      link: https://www.opencreatives.com.au/blog/
-      text: TEMP LINK CLICKY CLICK
-      title: Our Creatives!
-    - image: /img/cup-120.png
+    - image: /img/cup-90.png
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
-    - image: /img/girl-120.png
+    - image: /img/girl-90.png
       link: http://www.victorialicensing.it/en/home
       text: Mattel's marketing and consulting
       title: Victoria Licensing & Marketing
-    - image: /img/coke-120.png
+    - image: /img/coke-90.png
       link: https://www.coca-cola.com.au/en/home
       text: The worlds number one soft drink
       title: Coca Cola
-    - image: /img/world-120.png
+    - image: /img/world-90.png
       link: https://www.microsoft.com/en-au/windows
       text: The most used operating system ever
       title: Microsoft Windows
