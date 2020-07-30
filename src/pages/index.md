@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Open Creatives
+title: Open Creatives test
 image: /img/1266032437-large.jpg
 heading: Open Creatives
-subheading: insightful and candid interviews
+subheading: insightful and candid interviews test
 mainpitch1:
   description: Providing short and impactful interviews with those who take the
     plunge and chase their dreams
@@ -31,8 +31,12 @@ intro:
       text: The most used operating system ever
       title: Microsoft Windows
   heading: Our Recent Creatives
-  body: Click the links to be taken to these creative's own projects otherwise 
-        [read their stories here](http://www.opencreatives.com.au/blog)
+  body: >-
+    Click the links to be taken to these creative's own projects otherwise [read
+    their stories here](http://www.opencreatives.com.au/blog)
+
+
+    testing it
 main:
   description: >
     Open Creatives exists to provide a transparent platform to share the good
