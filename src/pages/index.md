@@ -20,7 +20,7 @@ intro:
       link: https://www.opencreatives.com.au/blog/
       text: TEMP LINK CLICKY CLICK
       title: Our Creatives!
-    - image: /img/cup-80-80.png
+    - image: /img/cup-100-100.png
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
