@@ -14,23 +14,19 @@ mainpitch2:
   title: And why does that matter?
 intro:
   blurbs:
-    - image: /img/temp blog.png
-      link: https://www.opencreatives.com.au/blog/
-      text: TEMP LINK CLICKY CLICK
-      title: Our Creatives!
-    - image: /img/Candydrush.png
+    - image: /img/cup-90.png
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
-    - image: /img/Mattel.png
+    - image: /img/girl-90.png
       link: http://www.victorialicensing.it/en/home
       text: Mattel's marketing and consulting
       title: Victoria Licensing & Marketing
-    - image: /img/Cocacaola.png
+    - image: /img/coke-90.png
       link: https://www.coca-cola.com.au/en/home
       text: The worlds number one soft drink
       title: Coca Cola
-    - image: /img/windows.png
+    - image: /img/world-90.png
       link: https://www.microsoft.com/en-au/windows
       text: The most used operating system ever
       title: Microsoft Windows
@@ -40,9 +36,9 @@ main:
   description: >
     Open Creatives exists to provide a transparent platform to share the good
     the bad and the ugly sides of growth and creativity in hopes of helping to
-    instill others with some extra confidence to achieve higher highs.  Thank
-    you for sharing!
-  image: /img/light copy.png
+    instil others with some extra confidence to achieve higher highs.  Thank you
+    for sharing!
+  image: /img/light-smaller.png
   heading: A quick word of acknowledgement to all of our content creators
 contact:
   description: |
