@@ -40,14 +40,11 @@ intro:
   body: Click the links to be taken to these creative's own projects otherwise
     [read their stories here](www.opencreatives.com.au/blog)
 main:
-  description: >2
-     
-
-
-
-
-
-    Open Creatives exists to provide a transparent platform to share the good the bad and the ugly sides of growth and creativity in hopes of helping to instill others with some extra confidence to achieve higher highs.  Thank you for sharing!
+  description: >
+    Open Creatives exists to provide a transparent platform to share the good
+    the bad and the ugly sides of growth and creativity in hopes of helping to
+    instill others with some extra confidence to achieve higher highs.  Thank
+    you for sharing!
   image: /img/light-smaller.png
   heading: A quick word of acknowledgement to all of our content creators
 contact:
