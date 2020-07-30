@@ -20,19 +20,19 @@ intro:
       link: https://www.opencreatives.com.au/blog/
       text: TEMP LINK CLICKY CLICK
       title: Our Creatives!
-    - image: /img/Candydrush.png
+    - image: /img/cup.png
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
-    - image: /img/Mattel.png
+    - image: /img/girl.png
       link: http://www.victorialicensing.it/en/home
       text: Mattel's marketing and consulting
       title: Victoria Licensing & Marketing
-    - image: /img/Cocacaola.png
+    - image: /img/coke.png
       link: https://www.coca-cola.com.au/en/home
       text: The worlds number one soft drink
       title: Coca Cola
-    - image: /img/windows.png
+    - image: /img/earth.png
       link: https://www.microsoft.com/en-au/windows
       text: The most used operating system ever
       title: Microsoft Windows
