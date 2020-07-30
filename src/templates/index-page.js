@@ -133,7 +133,7 @@ export const IndexPageTemplate = ({
                          <div className="columns">
                            <div className="column is-12 has-text-centered">
                              <h1>{intro.heading}</h1>
-                             <p dangerouslySetInnerHTML={{ __html: converter.makeHtml(intro.body) }}>
+                             <p dangerouslySetInnerHTML={{ __html: intro.body }}>
                              </p>
                            </div>
                          </div>
