@@ -8,12 +8,10 @@ mainpitch1:
   description: Providing short and impactful interviews with those who take the
     plunge and chase their dreams
   title: What are we about?
-  link: https://www.google.com/
 mainpitch2:
   description: Because we can learn a lot by looking at the path others have
     carved out from their own journey of life
   title: And why does that matter?
-  link: https://www.microsoft.com/en-au/windows
 intro:
   blurbs:
     - image: /img/temp blog.png
@@ -37,8 +35,7 @@ intro:
       text: The most used operating system ever
       title: Microsoft Windows
   heading: Our Recent Creatives
-  body: Click the links to be taken to these creative's own projects otherwise
-    [read their stories here](www.opencreatives.com.au/blog)
+  body: Click the links to be taken to these creative's own projects otherwise [read their stories here](www.opencreatives.com.au/blog)
 main:
   description: >
     Open Creatives exists to provide a transparent platform to share the good
