@@ -133,7 +133,7 @@ export const IndexPageTemplate = ({
                          <div className="columns">
                            <div className="column is-12 has-text-centered">
                              <h1>{intro.heading}</h1>
-                             <p>{intro.description}</p>
+                             <p>{intro.body}</p>
                            </div>
                          </div>
                        </section>
