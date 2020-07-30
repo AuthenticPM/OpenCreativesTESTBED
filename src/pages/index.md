@@ -31,7 +31,8 @@ intro:
       text: The most used operating system ever
       title: Microsoft Windows
   heading: Our Recent Creatives
-  body: Click the links to be taken to these creative's own projects otherwise [read their stories here](www.opencreatives.com.au/blog)
+  body: Click the links to be taken to these creative's own projects otherwise 
+        [read their stories here](http://www.opencreatives.com.au/log)
 main:
   description: >
     Open Creatives exists to provide a transparent platform to share the good
