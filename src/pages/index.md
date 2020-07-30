@@ -36,8 +36,9 @@ intro:
       link: https://www.microsoft.com/en-au/windows
       text: The most used operating system ever
       title: Microsoft Windows
-  description: Click the links to be taken to these creative's own projects
-    otherwise [read their stories here](www.opencreatives.com.au/blog)
+  description: |-
+    Click the links to be taken to these creative's own projects otherwise 
+    [read their stories here](www.opencreatives.com.au/blog)
   heading: Our Recent Creatives
 main:
   description: >
