@@ -45,7 +45,7 @@ main:
     the bad and the ugly sides of growth and creativity in hopes of helping to
     instill others with some extra confidence to achieve higher highs.  Thank
     you for sharing!
-  image: /img/light copy.png
+  image: /img/light.png
   heading: A quick word of acknowledgement to all of our content creators
 contact:
   description: |
