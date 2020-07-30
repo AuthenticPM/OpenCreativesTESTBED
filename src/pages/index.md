@@ -24,7 +24,7 @@ intro:
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
-    - image: /img/girl.png
+    - image: /img/cup-150-150.png
       link: http://www.victorialicensing.it/en/home
       text: Mattel's marketing and consulting
       title: Victoria Licensing & Marketing
