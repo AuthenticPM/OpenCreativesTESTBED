@@ -18,6 +18,10 @@ intro:
       link: https://king.com/game/candycrush
       text: The best way to pass some spare time
       title: Candy Crush
+    - image: /img/023_010_marker_felt_tip_pen_tool.png
+      title: Erin Nicholls
+      text: Beatiful art with Copics
+      link: https://www.erinnicholls.com/
     - image: /img/girl-90.png
       link: http://www.victorialicensing.it/en/home
       text: Mattel's marketing and consulting
