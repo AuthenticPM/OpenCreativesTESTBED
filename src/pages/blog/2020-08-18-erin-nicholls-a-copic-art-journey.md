@@ -10,11 +10,9 @@ featuredimage: /img/a-memory-in-spring.jpg
 tags:
   - Art Copic Japan
 ---
-
-
 **Tell us a brief bit about yourself and how you fell into your craft**
 
-I'm a visual artist who specialises in drawings using Copic markers. I mostly create street scenes of Japan, but sometimes I will branch out and do some hyperrealism or floral artworks. I've been working with Copics for 4 years now, after dabbling in oil painting on and off throughout my life. I've always been artistic and creative, so it was only a matter of time before I did something like this for a career.
+I'm a visual artist who specialises in [drawings using Copic markers](https://www.erinnicholls.com/). I mostly create street scenes of Japan, but sometimes I will branch out and do some hyperrealism or floral artworks. I've been working with Copics for 4 years now, after dabbling in oil painting on and off throughout my life. I've always been artistic and creative, so it was only a matter of time before I did something like this for a career.
 
 **What did you wish you knew before you started your venture?**
 
@@ -45,10 +43,6 @@ I put it off for many, many years. What eventually pushed me to go for it was mo
 When I started to get regular sales of both prints and original artworks, as well as winning the Bluethumb Art Prize in 2018 for my piece ["Smoke"](https://bluethumb.com.au/erinnicholls/Artwork/smoke-large-limited-edition-print-167790). It showed me that there are enough people out there who love my art that I am confident I can succeed as an artist.
 
 ![](/img/smoke-small.jpg)
-
-
-
-
 
 **How did you come up with the name of your business?**
 
