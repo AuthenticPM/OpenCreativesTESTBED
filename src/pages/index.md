@@ -14,10 +14,10 @@ mainpitch2:
   title: And why does that matter?
 intro:
   blurbs:
-    - image: /img/cup-90.png
-      link: https://king.com/game/candycrush
-      text: The best way to pass some spare time
-      title: Candy Crush
+    - image: /img/015_026_flower_tulip_present_nature.png
+      link: https://www.jodie.com.au/
+      text: Sydney's most awarded florist
+      title: Jodie McGregor Flowers
     - image: /img/023_010_marker_felt_tip_pen_tool.png
       title: Erin Nicholls
       text: Beatiful art with Copics
