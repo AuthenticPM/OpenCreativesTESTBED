@@ -6,7 +6,7 @@ description: "
   _____________________________________________________________________________\
   _________________"
 featuredpost: true
-featuredimage: /img/a-memory-in-spring.jpg
+featuredimage: /img/a-memory-in-spring-blog-tile.jpg
 tags:
   - Art Copic Japan
 ---
