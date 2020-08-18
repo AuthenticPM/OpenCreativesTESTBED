@@ -42,7 +42,7 @@ I put it off for many, many years. What eventually pushed me to go for it was mo
 
 When I started to get regular sales of both prints and original artworks, as well as winning the Bluethumb Art Prize in 2018 for my piece ["Smoke"](https://bluethumb.com.au/erinnicholls/Artwork/smoke-large-limited-edition-print-167790). It showed me that there are enough people out there who love my art that I am confident I can succeed as an artist.
 
-![](/img/smoke-small.jpg)
+![](/img/smoke-small-copy.jpg)
 
 **How did you come up with the name of your business?**
 
@@ -76,6 +76,4 @@ As an introvert it wasn't hard for me to spend a lot of time at home working. Th
 
 I have a website: [erinnicholls.com](http://erinnicholls.com/), or you can see progress photos of my work and contact me on my instagram: [https://www.​instagram.com/erinnicholls_​artist](https://www.instagram.com/erinnicholls_artist/)
 
-
-
-![](/img/by-lantern-light.jpg)
+![](/img/by-lantern-light-copy.jpg)
