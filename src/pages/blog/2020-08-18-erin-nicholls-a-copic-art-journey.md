@@ -75,3 +75,7 @@ As an introvert it wasn't hard for me to spend a lot of time at home working. Th
 **How can others contact you or where can they find you online for more information about your projects?**
 
 I have a website: [erinnicholls.com](http://erinnicholls.com/), or you can see progress photos of my work and contact me on my instagram: [https://www.​instagram.com/erinnicholls_​artist](https://www.instagram.com/erinnicholls_artist/)
+
+
+
+![](/img/by-lantern-light.jpg)
