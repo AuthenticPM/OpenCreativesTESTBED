@@ -22,10 +22,10 @@ intro:
       title: Erin Nicholls
       text: Beatiful art with Copics
       link: https://www.erinnicholls.com/
-    - image: /img/girl-90.png
-      link: http://www.victorialicensing.it/en/home
-      text: Mattel's marketing and consulting
-      title: Victoria Licensing & Marketing
+    - image: /img/012_009_blocks_bricks_box_constructor_toy_baby.png
+      link: https://www.tilestone.net.au/
+      text: Quality work for quality projects
+      title: TileStone
     - image: /img/coke-90.png
       link: https://www.coca-cola.com.au/en/home
       text: The worlds number one soft drink
