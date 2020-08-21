@@ -4,14 +4,12 @@ title: Rosella Painting & Decorating
 date: 2020-08-19T05:31:36.166Z
 description: ______________________________________________________________________________________
 featuredpost: true
-featuredimage: /img/og-image.jpg
+featuredimage: /img/blog-tile.jpg
 tags:
   - Rosella
   - Painting
   - Decorating
 ---
-
-
 **Tell us a brief bit about yourself and how you fell into your career path**
 
 My name is Sahmon and I run a family owned painting business. After finishing university I travelled and worked several jobs before joining my father and mother in running the family painting and decorating business that has now been running for 30 years.
@@ -23,6 +21,10 @@ I wish I knew how much spare time I had before owning my own business! Organisin
 **Is there anything you wish you had done differently along the way?**
 
 I don't have too many regrets. I suppose the only thing I would have liked to have done is to have started working with Rosella Decorating earlier than I did. I feel like I would have a bit of a step up on my current skills had I jumped in earlier to help out.
+
+
+
+![](/img/750-a.jpg)
 
 **What are the most important failures you’ve had along the way?**
 
@@ -47,3 +49,5 @@ When my father went on holidays a few months after I began working with him full
 **How can others contact you or where can they find you online for more information about your projects?**
 
 I currently don't have any social media presence but am working on that. The best way to reach me is by giving me a call or text on 0408 677 265 or sending me an email at roselladecorating@live.com.au
+
+![](/img/750-b.jpg)
