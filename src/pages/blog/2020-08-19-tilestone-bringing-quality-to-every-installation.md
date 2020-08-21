@@ -4,7 +4,7 @@ title: TileStone - bringing quality to every installation
 date: 2020-08-19T06:21:46.058Z
 description: ______________________________________________________________________________________
 featuredpost: true
-featuredimage: /img/main.jpg
+featuredimage: /img/blog-tile-samples.jpg
 tags:
   - Tiles
   - Renovation
