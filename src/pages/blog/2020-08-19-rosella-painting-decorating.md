@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Rosella Painting & Decorating
+title: Rosella Decorating Services - anything and everything painting!
 date: 2020-08-19T05:31:36.166Z
 description: ______________________________________________________________________________________
 featuredpost: true
