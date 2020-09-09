@@ -14,6 +14,10 @@ tags:
   - Business Cards
   - Flyers
 ---
+![](/img/logo2.jpg)
+
+
+
 **Tell us a brief bit about yourself and how you fell into your career path**
 
 Hi, my name is Simon Asmus and I'm 41 years old, married for 16 years and have 2 daughters aged 13 years old and 9 years old. I began my first job at the age of 14 as a paper boy. I would work on a commission basis with a newsagency and I quickly realised the harder I blew my whistle and the quicker I covered my round the more papers I would sell. By the age of 18 when I finished high school I had 12 casual jobs in total and by the time I was 21 that number had increased to 17. In 2001 I started my first business at the age of 21. Over the next 8 years I built one of the largest toner cartridge businesses in Australia before selling in 2009 and going back to working at more places to gain experience in different fields. In 2011 I started another business which specialises in print media, letterbox distribution, magazines and online marketing. I rebranded it in 2014 and iCatching Media was born.
@@ -33,6 +37,12 @@ Over 20 years there has been so many failures in peoples eyes that I have seen a
 **Is there anything you wish you had done differently along the way?**
 
 The only thing I would have changed especially in the early days is to limit how many services we offered to our clients.
+
+
+
+![](/img/magnetic-think-pattern-business-cards-1.jpg)
+
+
 
 **What drives you to keep pushing forward and do you have a rally cry or motto that motivates you?**
 
@@ -61,3 +71,7 @@ Yes, I’m currently working on a project that will transform how retail and tra
 **How can others contact you or where can they find you online for more information about your projects?**
 
 Our website is [www.icatchingmedia.com.au](http://www.icatchingmedia.com.au) and I’m available on 0401 765 072 or simon@icatchingmedia.com.au
+
+
+
+![](/img/mock-lansdowne-alldevices.jpg)
