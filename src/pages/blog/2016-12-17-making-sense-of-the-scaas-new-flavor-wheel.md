@@ -30,7 +30,7 @@ Learning business and cash flow was probably the hardest one. Anyone could be an
 
 Making clients happy. I know that is a cliché but the thrill you get at the end of the day when a client says to you you're amazing and thank you so much just never gets old.
 
-![](<>)
+![](/img/safari-pinned-tab.svg)
 
 **What made you realise it was all starting to come together?**
 
