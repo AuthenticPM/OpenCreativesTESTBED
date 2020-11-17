@@ -1,32 +1,63 @@
 ---
 templateKey: blog-post
-title: What concepts and ideas went into Window's largest interface overhaul ever!
+title: Test for glenco
 date: 2016-12-17T15:04:10.000Z
-description: '  This is the description field'
-featuredpost: false
-featuredimage: /img/Bill gates.jpg
+description: "  This is the description field"
+featuredpost: true
+featuredimage: /img/products-grid1.jpg
 tags:
   - Bill Gates
 ---
-![flavor wheel](/img/microsoft_windows_10_logo_bandage_data_map-100732004-large.jpg)
+**Tell us a brief bit about yourself and how you fell into your career path**
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+After deciding to leave school in year 10 my parents advised that I must have an apprenticeship or I can't leave (great advice!). My older brother had just finished his electrical apprenticeship and it was something that I'd always enjoyed so I applied to approximately 40 different companies. I had two replies and got accepted into both.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+**What are the most important failures you’ve had along the way?**
 
-## What the updates mean to you
+There has been many. I'm a big believer that if you don't fail you can't succeed. You definitely learn by your mistakes.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+**What drives you to keep pushing forward and do you have a rally cry or motto that motivates you?**
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Having a sporting background it has always been a mentality of knocking one brick wall down after another. What I mean by this is that there are always challenges and you just need to meet them head-on, face them and deal with them. The motto that I deal with now (and it's not great wording) is that at Glenco we have a “no Dick Head policy”. I know it's not great wording but what we are basically saying is we only want good people around as that is how you succeed.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+**(Just for the record Brad we at Open Creatives do love the motto haha)**
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+**What difficulties did you have to overcome early on?**
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Learning business and cash flow was probably the hardest one. Anyone could be an electrician (once you have a licence) but running a business and running it properly is completely separate.
+
+**What are the three things you love most about what you do?**
+
+Making clients happy. I know that is a cliché but the thrill you get at the end of the day when a client says to you you're amazing and thank you so much just never gets old.
+
+![](<>)
+
+**What made you realise it was all starting to come together?**
+
+When your staff say that they love working here and don't want to leave. I am very lucky to have a fantastic staff that work here at Glenco. One of my staff members started 22 years ago when his son was four weeks old. He is still here now and his son has just become a qualified electrician. Love the fact that they are still here and they are just like family.
+
+**Was there ever a time where you just wanted to throw in the towel and leave it all behind?**
+
+There's always times when you think to yourself is it worth it. But I am also a big believer that there are going to be minor issues in anything you do in life. Nothing ever runs smoothly (obviously not wanting major issues) but it's how you deal with them and move on.
+
+**What motivates you on a daily basis to keep going and improving on what you do?**
+
+My staff. At the moment at Glenco we employ 70 people but that tells me that we feed hundred and 50+ mouths. Everyone has a husband, wife, partner and/or kids and they are all part of Glenco. It is important that we do well in the things we do as we are feeding everyone.
+
+**Do you have any specific advice for others contemplating similar paths to yours?**
+
+Don't die wondering. I was very lucky enough to play professional basketball and that was the one thing that was told to me when I started my career. It is basically telling me don't be afraid and have a go.
+
+**What do you do to keep yourself mentally sharp and on the ball?**
+
+I don't think I can put this down to anything in particular but I think it's pride. Getting up every morning and doing the best I can
+
+**Thank you Brad, I can personally attest to the fine work your organisation does and cannot recommend you highly enough for your contribution to this project.**
+
+Contact:
+
+[www.glenco.com.au](<>)
+
+9700 9996
+
+service@glenco.com.au![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
