@@ -32,3 +32,18 @@ tags:
 * (Insert your own question)
 * Were you able to maintain a work life balance when you started out or did you have to make some fairly large compromises to gain traction?
 * How can others contact you or where can they find you online for more information about your projects? (LAST - optional)
+
+
+
+1. How much cash will I have at risk?
+2. How much time will it consume?
+3. How much energy will it take?
+4. Do I currently have other obligations that will prevent me from giving the business 100 percent?
+5. Would there be a much better time for me to start a business other than now?
+6. What are my alternatives if I don’t start a business now?
+7. What are the chances of success?
+8. Am I looking at starting a business from a position of relative strength – feeling good about myself and feeling I am relatively well off – or am I looking at starting a business from a position of relative weakness – recently laid off from a job and being behind on my bills?
+9. Can I test-run the business part-time before quitting my job?
+10. Should I choose between a higher-risk or lower-risk businesses?
+11. Suppose my business provides less income than I expected. How long should I stick with it?
+12. If the business doesn’t work out, how easily will I be able to pick myself up and move along to the next endeavor?
